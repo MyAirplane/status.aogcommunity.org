@@ -3,9 +3,9 @@ owner: MyAirplane # Your GitHub organization or username, where this repository 
 repo: status.aogcommunity.org # The name of this repository
 
 sites:
-  - name: AOGCommunity.org Dashboard
+  - name: Dashboard
     url: https://aogcommunity.org
-  - name: API Servers
+  - name: Backend API
     url: $API_URL
     headers:
       - 'apikey: $API_KEY'
