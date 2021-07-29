@@ -17,13 +17,14 @@ status-website:
   logoUrl: https://aogcommunity.org/img/AOGCommunity.org.svg
   hideNavTitle: true # Hide the title
   name: AOGCommunity.org
-  introTitle: "**AOGCommunity.org** System Status Page"
+  introTitle: "System Status"
   introMessage: "Welcome to [AOGCommunity.org](https://aogcommunity.org)'s home for real-time information on system status and security. Here you'll find live and historical data on system performance. If there are any interruptions in service, a note will be posted here."
   navbar:
     - title: Status
       href: /
-    - title: Go to Dashboard
+    - title: Return to Dashboard
       href: https://aogcommunity.org
+  css: ".logo img { max-width: 200px }"
 
 i18n:
   footer: Brought to you by [MyAirplane™](https://myairplane.io)
