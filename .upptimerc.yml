@@ -12,18 +12,18 @@ status-website:
   cname: status.aogcommunity.org
 #   baseUrl: /status.aogcommunity.org
   logoUrl: https://aogcommunity.org/img/AOGCommunity.org.png
-  name: AOGCommunity.org
+#   name: AOGCommunity.org
   introTitle: "**AOGCommunity.org** Status Page"
   introMessage: "Welcome to AOGCommunity.org's home for real-time information on system status and security. Here you'll find live and historical data on system performance. If there are any interruptions in service, a note will be posted here."
   navbar:
     - title: Status
       href: /
-  theme: light
+  theme: dark
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
 
 i18n:
-  footer: AOGCommunity.org is powered by MyAirplane
+  footer: 
 
 assignees:
   - filtersource
