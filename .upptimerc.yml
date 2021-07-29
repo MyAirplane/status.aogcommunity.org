@@ -16,8 +16,8 @@ status-website:
   cname: status.aogcommunity.org
 #   logoUrl: https://aogcommunity.org/img/AOGCommunity.org.png
   name: AOGCommunity.org
-  introTitle: "System Status Page"
-  introMessage: "Welcome to AOGCommunity.org's home for real-time information on system status and security. Here you'll find live and historical data on system performance. If there are any interruptions in service, a note will be posted here."
+  introTitle: "**AOGCommunity.org** System Status Page"
+  introMessage: "Welcome to [AOGCommunity.org](https://aogcommunity.org)'s home for real-time information on system status and security. Here you'll find live and historical data on system performance. If there are any interruptions in service, a note will be posted here."
   navbar:
     - title: Status
       href: /
