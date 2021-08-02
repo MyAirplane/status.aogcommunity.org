@@ -22,7 +22,7 @@ status-website:
   navbar:
     - title: Status
       href: /
-    - title: Return to Dashboard &rarr;
+    - title: Return to Dashboard
       href: https://aogcommunity.org
   css: ".logo img { max-width: 200px }"
 
