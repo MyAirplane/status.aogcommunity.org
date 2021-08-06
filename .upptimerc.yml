@@ -9,6 +9,8 @@ sites:
     url: $API_URL
     headers:
       - 'apikey: $API_KEY'
+  - name: Help Docs
+    url: https://docs.aogcommunity.org
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
