@@ -4,9 +4,9 @@
     "url": "https://aogcommunity.org",
     "icon": "https://favicons.githubusercontent.com/aogcommunity.org",
     "slug": "aog-community-org",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 319,
     "timeMonth": 677,
     "timeYear": 411,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-12-20": 0
+    }
   },
   {
     "name": "API",
@@ -40,7 +42,7 @@
     "url": "https://docs.aogcommunity.org",
     "icon": "https://favicons.githubusercontent.com/docs.aogcommunity.org",
     "slug": "help-docs",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -51,6 +53,8 @@
     "timeWeek": 610,
     "timeMonth": 432,
     "timeYear": 384,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-12-20": 0
+    }
   }
 ]
