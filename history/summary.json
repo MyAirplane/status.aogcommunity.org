@@ -4,19 +4,19 @@
     "url": "https://aogcommunity.org",
     "icon": "https://favicons.githubusercontent.com/aogcommunity.org",
     "slug": "aog-community-org",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 411,
-    "timeDay": 317,
-    "timeWeek": 319,
-    "timeMonth": 677,
-    "timeYear": 411,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.69%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.99%",
+    "time": 410,
+    "timeDay": 335,
+    "timeWeek": 323,
+    "timeMonth": 666,
+    "timeYear": 410,
     "dailyMinutesDown": {
-      "2021-12-20": 0
+      "2021-12-20": 19
     }
   },
   {
@@ -42,19 +42,19 @@
     "url": "https://docs.aogcommunity.org",
     "icon": "https://favicons.githubusercontent.com/docs.aogcommunity.org",
     "slug": "help-docs",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 384,
-    "timeDay": 395,
-    "timeWeek": 610,
-    "timeMonth": 432,
-    "timeYear": 384,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.69%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.99%",
+    "time": 383,
+    "timeDay": 320,
+    "timeWeek": 564,
+    "timeMonth": 426,
+    "timeYear": 383,
     "dailyMinutesDown": {
-      "2021-12-20": 0
+      "2021-12-20": 19
     }
   }
 ]
